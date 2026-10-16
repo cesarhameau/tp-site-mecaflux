@@ -8,5 +8,5 @@ Pour lancer le site en local :
 
 1. Cloner le dépôt :
    ```bash
-   git clone [https://github.com/votre-compte/tp-site-mecaflux.git](https://github.com/votre-compte/tp-site-mecaflux.git)
+   git clone https://github.com/votre-compte/tp-site-mecaflux.git
    cd tp-site-mecaflux
